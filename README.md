@@ -1,13 +1,13 @@
 # UNFPA SoSafe SOS Mockup
 
-This project contains a static HTML mockup for the "SoSafe" SOS feature for UNFPA.
+โปรเจกต์นี้ประกอบด้วย HTML Mockup แบบคงที่สำหรับฟีเจอร์ "SoSafe" SOS ของ UNFPA
 
-It is intended for demonstration and feedback purposes to showcase the user interface and user flow of the SOS functionality.
+มีวัตถุประสงค์เพื่อการสาธิตและรับข้อเสนอแนะเพื่อแสดงอินเทอร์เฟซผู้ใช้และขั้นตอนการใช้งานของฟังก์ชัน SOS
 
-## Usage
+## การใช้งาน
 
-Simply open the `index.html` file in a web browser to view the mockup.
+เพียงเปิดไฟล์ `index.html` ในเว็บเบราว์เซอร์เพื่อดู Mockup
 
-## Deployment
+## การนำไปใช้งาน (Deployment)
 
-This mockup is deployed via GitHub Pages for client demonstration.
+Mockup นี้ถูกนำไปใช้งานผ่าน GitHub Pages สำหรับการสาธิตแก่ลูกค้า
